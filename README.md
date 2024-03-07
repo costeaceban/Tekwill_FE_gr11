@@ -20,9 +20,9 @@ ___
 
 Чтобы узнать больше о синтаксисе Markdown, вы можете обратиться к следующим ссылкам:
 
-- [title](https://www.markdownguide.org/)
-- [title](https://www.markdownguide.org/basic-syntax/)
+- [Официальная страница Markdown](https://www.markdownguide.org/)
+- [Основной синтаксис Markdowb](https://www.markdownguide.org/basic-syntax/)
 
 Кроме того, вы можете найти более подробный список функций сиснтаксиса Markdown по адресу:
 
-- [title](https://ru.markdown.net.br/)
+- [Полное руководство по синтаксису Markdown](https://ru.markdown.net.br/)
